@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find my age</string>
+    <string name="Enter">Enter year of Birth</string>
+    <string name="textViwe">you 0 year</string>
+    <string name="button">Get age</string>
+
+
+
+</resources>
